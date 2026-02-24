@@ -24,6 +24,28 @@ Aqui destacarei as principais estruturas para demonstração.
 - [ ] Tarefa 2
 - [ ] Tarefa 3
 
+### Naveguei até os documentos de github para explorar um pouco mais os Markdown\
+e encontrei por exemplo, 	~~Strikethrough~~, <sub>Subscript</sub>, <sup>Superscript</sup> e <ins>Underline</ins>
+
+### Também gostei muito dos **ALERTAS**
+Gosto muito quando o texto fica visual e intuitivo de se ler!!
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
 ----------------------
 Obrigada pela atenção!
 ![Obrigada](https://cdn.pixabay.com/photo/2014/12/28/17/47/cat-582064_1280.jpg)
