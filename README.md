@@ -51,5 +51,5 @@ Obrigada pela atenção!
 ![Obrigada](https://cdn.pixabay.com/photo/2014/12/28/17/47/cat-582064_1280.jpg)
 <img src="https://cdn.pixabay.com/photo/2014/12/28/17/47/cat-582064_1280.jpg" width="100px">
 
-commit de alteração 01 de meu usuário principal
+commit de alteração 01 de meu usuário principal <br>
 criando branch em desafio de projeto
